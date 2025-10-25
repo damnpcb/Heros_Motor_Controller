@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Adam\Desktop\priv-repo\Heros_MotorDriver\ControlBoard\ControlBoard.PcbDoc
+Date         : 31.08.2025
+Time         : 08:05:32
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 112mmx155mm
+    Components on board, 721
+count : 2

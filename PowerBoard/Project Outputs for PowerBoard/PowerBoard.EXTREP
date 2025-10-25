@@ -1,0 +1,49 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PowerBoard.GBR   15.10.2025  22:46:14
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 GND                                     
+.G2                 VCC                                     
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top 3D Body                             
+.GM3                Top Courtyard                           
+.GM4                Top Designator                          
+.GM5                Top Assembly                            
+.GM6                Bottom Designator                       
+.GM7                Assembly Notes                          
+.GM8                Board                                   
+.GM9                Top Covering                            
+.GM10               Bottom Covering                         
+.GM11               Top Component Outline                   
+.GM12               Bottom Component Outline                
+.GM13               Mechanical 13                           
+.GM14               Filling                                 
+.GM15               Mechanical 15                           
+.GM16               Top Component Center                    
+.GM20               Bottom Assembly                         
+.GM21               Bottom Courtyard                        
+.GM23               Bottom 3D Body                          
+.GM24               Bottom Component Center                 
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.3                  Dielectric 3                            
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.2                  Dielectric 2                            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
